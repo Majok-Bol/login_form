@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget{
             SizedBox(child: TextField(
               decoration: InputDecoration(
                 labelText: 'Address',
-                prefixIcon:Icon(FontAwesomeIcons.locationPinLock,color:Colors.orange),
+                prefixIcon:Icon(FontAwesomeIcons.locationPin,color:Colors.orange),
               ),
             )),
 
