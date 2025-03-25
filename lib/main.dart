@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget{
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
-        appBar: AppBar(title: Text('Bashbytes Terminal',style: TextStyle(color: Colors.white,fontSize: 20),),centerTitle: true,backgroundColor: Colors.purple,),
+        appBar: AppBar(title: Text('Login Form',style: TextStyle(color: Colors.white,fontSize: 20),),centerTitle: true,backgroundColor: Colors.purple,),
         body:Container(
           // color: Colors.lightGreen,
           padding: EdgeInsets.all(10),
